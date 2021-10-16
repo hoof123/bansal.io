@@ -3,7 +3,7 @@
 * Plugin Name: BANSAL
 * Plugin URI: https://bansal.io/
 * Description: a WordPress plugin to integrate Jiten Bansal's Shorthand CSS framework, pattern.css, and filters.css.
-* Version: 1.1
+* Version: 1.2
 * Author: Jake Price | JP Creative Media
 * Author URI: https://jpcreativemedia.ca/
 **/
